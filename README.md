@@ -17,6 +17,11 @@ Welcome to my GitHub profile!
 - **Specialties:** Security, Tooling, Open Source
 - **What I enjoy:** Building helpful tools, sharing knowledge, and learning from others.
 
+## Education
+
+- ***AS in Cybersecurity***
+- ***BS in Accounting & Finance focused on FinTech (In Progress)***
+
 ## 📚 Currently Exploring
 
 - Advanced security practices in Rust
