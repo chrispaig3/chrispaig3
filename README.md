@@ -7,7 +7,7 @@
 Welcome to my GitHub profile!
 
 - 🛠️ I love building tools and exploring new ways to make software more secure.
-- 🔒 Security is my passion—I'm always learning and sharing knowledge to help others understand best practices.
+- 🔒 Security is my passion; I'm always learning and sharing knowledge to help others understand best practices.
 - 🦀 Rust is my language of choice for its safety, speed, and reliability.
 - 🤝 I enjoy contributing to open source and collaborating with the community.
 
