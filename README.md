@@ -1,7 +1,5 @@
 # Hi, I'm Chris Paige 👋
 
-## ***Notice***: Going forward, all of my projects will be hosted [here](https://radicle.network/nodes/iris.radicle.network/users/did%3Akey%3Az6Mkrz1SfNrRiDsyKDJN4nDLPcSuub8eJPLDeJM8WvLuFqAf) on the Radicle network!
-
 **Software Engineer | Security Enthusiast | Rustacean**
 
 ---
